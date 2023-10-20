@@ -1,0 +1,30 @@
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+    // .shorelinesection{
+    //     display: flex;
+    //     justify-content: center;
+    //     align-items: center;
+        
+        
+    // }
+        .cardlinewrapper{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            width: 100%;
+            
+        }
+            .mountain1{
+            max-width:1400px;
+            min-height:100vh;
+                
+            }
+                .mountain1 img{
+                    max-width: 1000px;
+                    min-height: 10vh;
+                }
